@@ -1,1 +1,1 @@
-# practice-repo
+# Javascript Questions Repository
