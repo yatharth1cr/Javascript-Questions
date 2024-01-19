@@ -13,4 +13,11 @@ Ans:
 - Example:-{name:'Yatharth', sirName:'Giri'}...
 ```
 2. What are the primitive data types in JavaScript?
+```js
+- the primitive data types in JavaScript can hold one value at a time
+` number,string,boolean,null,undefined `
+```
 3. How do you check the type of a variable in JavaScript?
+```js
+- the type of a variable is checked by typeof operator and it always return string data type.
+```
