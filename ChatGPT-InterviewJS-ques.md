@@ -21,3 +21,18 @@ Ans:
 ```js
 - the type of a variable is checked by typeof operator and it always return string data type.
 ```
+`Variable Declaration:`
+1. Describe the differences between var, let, and const.
+```js
+Global Scoped- let, var & const
+Block scoped- var
+Function scoped- let & const
+```
+2. Explain hoisting in JavaScript and how it relates to variable declarations.
+```js
+Hoisting is the term which important to writing clean and bug free 
+```
+3. What is the significance of block scope in modern JavaScript?
+```js
+
+```
