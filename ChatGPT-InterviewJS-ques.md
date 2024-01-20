@@ -16,7 +16,7 @@ Ans:
 2. What are the primitive data types in JavaScript?
 ```js
 - the primitive data types in JavaScript can hold one value at a time
-` number,string,boolean,null,undefined `
+`number,string,boolean,null,undefined`
 ```
 3. How do you check the type of a variable in JavaScript?
 ```js
@@ -27,9 +27,9 @@ Ans:
 * `Variable Declaration:`
 1. Describe the differences between var, let, and const.
 ```js
-Global Scoped- let, var & const
-Block scoped- var
-Function scoped- let & const
+- Global Scoped - let, var & const
+- Block Scoped - var
+- Function Scoped - let & const 
 ```
 2. Explain hoisting in JavaScript and how it relates to variable declarations.
 ```js
@@ -37,7 +37,7 @@ Hoisting is the term which important to writing clean and bug free
 ```
 3. What is the significance of block scope in modern JavaScript?
 ```js
-
+ 
 ```
 
 ``Working with Functions:``
@@ -50,7 +50,6 @@ Hoisting is the term which important to writing clean and bug free
 ```js
 
 ```
-
 * `Arrow Functions:`
 1. What are arrow functions, and how do they differ from regular functions?
 ```js
@@ -106,7 +105,7 @@ Hoisting is the term which important to writing clean and bug free
 * `Array Methods:`
 1. Describe the purpose and use cases of methods like indexOf, includes, and find in arrays.
 ```js
-
+the purpose of use case of methods like indexOf,includes and finds in array are  
 ```
 2. Explain how the reduce method works and provide an example.
 ```js
