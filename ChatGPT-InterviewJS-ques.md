@@ -19,7 +19,7 @@ Ans:
 - the primitive data types in JavaScript can hold one value at a time
 `number,string,boolean,null,undefined`
 ```
-3. How do you check the type of a variable in JavaScript?
+y3. How do you check the type of a variable in JavaScript?
 ```js
 Ans:
 - the type of a variable is checked by typeof operator and it always return string data type.
@@ -37,7 +37,7 @@ Ans:
 2. Explain hoisting in JavaScript and how it relates to variable declarations.
 ```js
 Ans:
-Hoisting is the term which important to writing clean and bug free 
+Hoisting is the term which important to writing clean and bug free code
 ```
 3. What is the significance of block scope in modern JavaScript?
 ```js
