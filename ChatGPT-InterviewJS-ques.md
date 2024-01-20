@@ -1,5 +1,5 @@
-``Value, Variables, Types, and Operators:``
-`Data Types:`
+## ``Value, Variables, Types, and Operators:``
+### `Data Types:`
 1. Explain the difference between primitive data types and objects in JavaScript.
 ```js
 Ans: 
@@ -25,8 +25,8 @@ Ans:
 - the type of a variable is checked by typeof operator and it always return string data type.
 ```
 
-``Data Structure (Objects and Arrays):``
-* `Variable Declaration:`
+## ``Data Structure (Objects and Arrays):``
+### `Variable Declaration:`
 1. Describe the differences between var, let, and const.
 ```js
 Ans:
@@ -44,8 +44,8 @@ Hoisting is the term which important to writing clean and bug free code
  Ans:
 ```
 
-``Working with Functions:``
-* `Function Declaration vs. Function Expression:`
+## ``Working with Functions:``
+### `Function Declaration vs. Function Expression:`
 1. What is the difference between function declaration and function expression?
 ```js
 Ans:   
@@ -55,7 +55,7 @@ Ans:
 Ans:
 ```
 
-* `Arrow Functions:`
+### `Arrow Functions:`
 1. What are arrow functions, and how do they differ from regular functions?
 ```js
 Ans:
@@ -65,7 +65,7 @@ Ans:
 Ans:
 ```
 
-* `Closures:`
+### `Closures:`
 1. What is a closure in JavaScript, and how is it useful?
 ```js
 Ans:
@@ -75,8 +75,8 @@ Ans:
 Ans:
 ```
 
-``Data Structure (Objects and Arrays):``
-* `Objects:`
+## ``Data Structure (Objects and Arrays):``
+### `Objects:`
 1. How do you create an object in JavaScript? Provide different syntax options.
 ```js
 Ans:
@@ -86,7 +86,7 @@ Ans:
 Ans:
 ```
 
-* `Arrays:`
+### `Arrays:`
 1. How do you add/remove elements from the beginning and end of an array?
 ```js
 Ans:
@@ -96,7 +96,7 @@ Ans:
 Ans:
 ```
 
-* `Array Methods:`
+### `Array Methods:`
 1. Describe common array methods like push, pop, shift, and unshift.
 ```js
 Ans:
@@ -106,8 +106,8 @@ Ans:
 Ans:
 ```
 
-``Array and String Methods:``
-* `Array Methods:`
+## ``Array and String Methods:``
+### `Array Methods:`
 1. Describe the purpose and use cases of methods like indexOf, includes, and find in arrays.
 ```js
 Ans:
@@ -118,7 +118,7 @@ the purpose of use case of methods like indexOf,includes and finds in array are
 Ans:
 ```
 
-* `String Methods:`
+### `String Methods:`
 1. Describe the purpose of methods like charAt, slice, and substring for manipulating strings.
 ```js
 Ans:
@@ -128,18 +128,18 @@ Ans:
 Ans:
 ```
 
-``General Questions:``
-* `Type Coercion:`
+## ``General Questions:``
+### `Type Coercion:`
 1. What is type coercion in JavaScript, and how does it work?
-```js
+```js## 
 Ans:
-```
+```## 
 2. Provide examples of implicit and explicit type coercion.
-```js
+```js## 
 Ans:
 ```
 
-* `Immutability:`
+### `Immutability:`
 1. Explain the concept of immutability in JavaScript.
 ```js
 Ans:
@@ -149,7 +149,7 @@ Ans:
 Ans:
 ```
 
-* `Error Handling:`
+### `Error Handling:`
 1. Describe how to handle errors in JavaScript using try-catch blocks.
 ```js
 Ans:
