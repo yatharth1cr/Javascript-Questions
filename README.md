@@ -21,7 +21,7 @@
 16. Define 10 variables and store any kind of value in it. It should cover at least one value of each data type.
 17. Declare age and gender in the same line as userName i.e. declare multiple variables in one line. (let a = 21, b = 22;)
 18. Declare variables with names like break, class, const, for, else, if, import and return. Explain in your own words what did you observe.q
-### `Truthy and Falsy``
+### `Truthy and Falsy`
 19. What are truthy and falsy values? Write 5 examples of each.
 20. What is the difference between truthy and true?
 21. List all the flasy values
