@@ -11,7 +11,7 @@
 8. What is the difference between null and undefined
 9. Define an object with key as username and value will be your name
 10. What is the difference between primitive and non-primitive values.
-`Values and typeof`
+### `Values and typeof`
 11. What are the different data types in JavaScript and what will typeof operator return for respective value. For each data types write two examples.
 12. Write 5 example of operation we can perform on each string and number data type.
 13. Write three example of valid and invalid way to represent string data in JavaScript.
