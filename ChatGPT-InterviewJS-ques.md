@@ -1,3 +1,4 @@
+.![Screenshot 2024-01-19 120245](https://github.com/yatharth1cr/Javascript-Questions/assets/141804107/9096594e-7879-4c43-80d8-6d0062b3534b)
 ## ``Value, Variables, Types, and Operators:``
 ### `Data Types:`
 1. Explain the difference between primitive data types and objects in JavaScript.
@@ -19,7 +20,7 @@ Ans:
 - the primitive data types in JavaScript can hold one value at a time
 `number,string,boolean,null,undefined`
 ```
-y3. How do you check the type of a variable in JavaScript?
+3. How do you check the type of a variable in JavaScript?
 ```js
 Ans:
 - the type of a variable is checked by typeof operator and it always return string data type.
