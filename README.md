@@ -1,5 +1,5 @@
 ## Javascript Questions Repository
-## ``Value, Variables, Types and Operators``*
+## ``Value, Variables, Types and Operators``
 ### `Understanding values`
 1. Write 5 values of number data type
 2. Write 5 values of string data type
