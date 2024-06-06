@@ -45,3 +45,9 @@
 - Call above function.
 - Store the return value in a variable named four
 - What is the typeof the value in four
+## ``Data Structure(Objects and Arrays)``
+### `Primitive vs Non Primitive`
+31. List all the primitive and non-primitive data types in JavaScript.
+32. Explain the difference between Primitive and Non-Primitive with examples.
+33. Explain copy by value and copy by reference with examples
+34. Explain mutation with example
