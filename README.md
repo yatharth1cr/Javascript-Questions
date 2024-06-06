@@ -58,3 +58,16 @@
 37. What are the rules of scope?
 38. Why do we need scope?
 39. What is the difference between var, let and const (keeping scope in mind)
+## ``Introduction to DOM``
+### `Understanding DOM`
+40. Give three examples of BOM features.
+41. What is DOM?
+43. Convert the following HTML into DOM (object form) <p class="para">Hello User!</p>
+44. Convert the following HTML into DOM <div> <p class="para">Hello User!</p> </div>
+### `Understanding Manipulation`
+45. Explain the following with 2 examples:
+- querySelector
+- querySelectorAll
+46. What is the difference between Node and element explain with example.
+47. Explain different methods of classList property (add, remove, toggle)
+48. Difference between DOM property and DOM attributes explain.
