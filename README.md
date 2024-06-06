@@ -71,3 +71,8 @@
 46. What is the difference between Node and element explain with example.
 47. Explain different methods of classList property (add, remove, toggle)
 48. Difference between DOM property and DOM attributes explain.
+## ``DOM and Events``
+### `Types Of Events`
+49. What is the limitation of using inline HTML event handlers like onclick, onmousemove etc.
+50. Explain addEventListener and the benefit of using it with two example.
+51. Write down the five different types of events you can use.
