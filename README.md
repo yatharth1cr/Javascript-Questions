@@ -31,3 +31,17 @@
 24. What is the difference between if statement and ternary operator. Explain the difference with example.
 25. What are truthy and falsy values. List all the falsy values and 5 truthy values.
 26. What are the main difference between a primitive and non-primitive values? Explain with example
+## ``Working with Function``
+27. Define a function named sayHello when called alert saying "Hello JavaScript".
+- Call above function.
+- Store the return value in a variable named one
+- What is the typeof the value in one
+28. Change function (from Part 1 above) to accept name from user using prompt and store it in a variable named usename and alert message saying Hello [username].
+- Call above function.
+- Store the return value in a variable named two
+- What is the typeof the value in two
+29. Change the function (from Part 2 above) to accept username as a parameter not from prompt.
+30. Change (from Part 3 above) return the message Hello username instead of alerting it.
+- Call above function.
+- Store the return value in a variable named four
+- What is the typeof the value in four
