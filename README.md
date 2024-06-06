@@ -51,3 +51,10 @@
 32. Explain the difference between Primitive and Non-Primitive with examples.
 33. Explain copy by value and copy by reference with examples
 34. Explain mutation with example
+## ``Array and String Methods``
+### `Scope`
+35. What is scope?
+36. What are the different types of scope? Two examples of each type.
+37. What are the rules of scope?
+38. Why do we need scope?
+39. What is the difference between var, let and const (keeping scope in mind)
