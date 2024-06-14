@@ -62,8 +62,8 @@
 ### `Understanding DOM`
 40. Give three examples of BOM features.
 41. What is DOM?
-42. Convert the following HTML into DOM (object form) '<p class="para">Hello User!</p>'
-43. Convert the following HTML into DOM <div> '<p class="para">Hello User!</p> </div>'
+42. Convert the following HTML into DOM (object form) `<p class="para">Hello User!</p>`
+43. Convert the following HTML into DOM `<div><p class="para">Hello User!</p></div>`
 ### `Understanding Manipulation`
 44. Explain the following with 2 examples:
 - querySelector
